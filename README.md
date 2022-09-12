@@ -16,5 +16,5 @@ Changelog AddoneX V0.0.0.2:
 -Added the planetlist feature: Planets are now listed in two columns.
 -Added player rank feature in the galaxy view: The player rank is now visible in the galaxy. You don´t have to look at the tooltip
 
-!(https://github.com/Blackhatfrance/ogameX-ChromeExtension/blob/main/extension.png?raw=true)!
+!https://github.com/Blackhatfrance/ogameX-ChromeExtension/blob/main/extension.png?raw=true!
 
