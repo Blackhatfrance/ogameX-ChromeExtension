@@ -10,11 +10,13 @@ I am always sharing my extension as a zip file. To use it you have to do the fol
 
 Don´t be afraid that I steal any of your data or account info. Nothing like that will happen. All of my code is open source since I am sharing the zip file. You can check on your own what the code is doing before using it. Or ask a friend who understands codes :wink:
 
-@everyone 
 
 Changelog AddoneX V0.0.0.2:
+
 -Added the planetlist feature: Planets are now listed in two columns.
 -Added player rank feature in the galaxy view: The player rank is now visible in the galaxy. You don´t have to look at the tooltip
 
-!https://github.com/Blackhatfrance/ogameX-ChromeExtension/blob/main/extension.png?raw=true!
+
+![alt text](https://github.com/Blackhatfrance/ogameX-ChromeExtension/blob/main/extension.png?raw=true)
+
 
