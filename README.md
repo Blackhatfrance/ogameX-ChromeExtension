@@ -1,5 +1,16 @@
+# Ogamex.net
+Ogamex.net - Chrome extension
+
+[![GitHub all releases](https://img.shields.io/github/downloads/Blackhatfrance/ogameX-ChromeExtension/total)](https://github.com/Blackhatfrance/ogameX-ChromeExtension/releases)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Blackhatfrance/ogameX-ChromeExtension)](https://github.com/Blackhatfrance/ogameX-ChromeExtension/releases/latest)
+[![Discord](https://img.shields.io/discord/859559253575991306)](https://discord.gg/ygxpbYfh5x)
+
+
 This channel is to share the latest versions of my google chrome extension and discuss new features. You are welcome to request features. I will try to realize them as long as those are possible and fair! The extension will not cover any kind of bot-like automation!!!
 You are also welcome to report bugs here
+
+[![Stories in Ready](https://discordapp.com/api/guilds/859559253575991306/widget.png?style=banner2)](https://discord.gg/ygxpbYfh5x)
+
 
 I am always sharing my extension as a zip file. To use it you have to do the following things:
 
