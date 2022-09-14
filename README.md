@@ -14,13 +14,15 @@ You are also welcome to report bugs here
 
 I am always sharing my extension as a zip file. To use it you have to do the following things:
 
-- Use google chrome :nerd: 
+- Use google chrome
 - Go to the extensions page (chrome://extensions) and activate developers mode (top right corner)
 - Option 1: Just drag and drop the zipped extension into the extension window
 - Option 2: unzip the extension. Open contentscript.js and modify the options if you don´t like to use all the features. Then drag and drop the whole folder into the extension window. Or use "Load unpacked extension"
 
 Don´t be afraid that I steal any of your data or account info. Nothing like that will happen. All of my code is open source since I am sharing the zip file. You can check on your own what the code is doing before using it. Or ask a friend who understands codes :wink:
 
+Changelog AddoneX V0.0.0.3:
+- Sound alarm under atack, the page refresh every 30 second and check if under attack, the tab need to be open (available for alls universes)
 
 Changelog AddoneX V0.0.0.2:
 
